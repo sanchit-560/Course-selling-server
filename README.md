@@ -1,4 +1,4 @@
-# Dummy Course selling server
+# Dummy Course Selling Server
 
 Hi there, this is a simple Todo Application 
 Description
