@@ -1,9 +1,9 @@
-
+# Welcome to StackEdit!
 
 Hi there, this is a simple Todo Application 
 Description
 
--use of jwts for authentication. Wintroduced the signgin endpoints for both users and admins. For this one, in every authenticated requests, we send the jwt in headers (Authorization : "Bearer "). using mongodb to store all the data persistently.
+-use of jwts for authentication. We introduced the sign in endpoints for both users and admins. For this one, in every authenticated request, we send the jwt in headers (Authorization : "Bearer "). using Mongodb to store all the data persistently.
 
 # Routes
 ### Admin Routes:
