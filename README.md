@@ -1,4 +1,4 @@
-# Welcome to StackEdit!
+# Dummy Course selling server
 
 Hi there, this is a simple Todo Application 
 Description
